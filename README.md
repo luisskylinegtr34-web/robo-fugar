@@ -33,7 +33,11 @@ Baixe o `index.html` e abra no navegador. Não precisa instalar nada.
 
 ## 📚 O que aprendi
 
-(escreva aqui, com suas palavras)
+Neste projeto aprendi os principais componentes pra criar um jogo na web:
+
+- **HTML:** estrutura da página e o elemento `<canvas>`, onde o jogo é desenhado
+- **CSS:** layout responsivo, pra o jogo se ajustar ao tamanho da tela do celular e do computador
+- **JavaScript:** a lógica do jogo, como o laço de animação, os controles por toque e teclado, a colisão entre objetos, a pontuação e o recorde salvo no navegador
 
 ## 👤 Autor
 
